@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hazem</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hazem</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hazem020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazem020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=hazem020&style=flat-square&color=blue&abbreviated=true" alt=""/>
+
 </div>
 
-###
 
+###
 ## 🌐 Socials
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazemhamed34@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hazem15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-hamed-682721204) 
