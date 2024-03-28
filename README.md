@@ -2,8 +2,7 @@
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazem020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazem020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="center" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hazem020&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=hazem020&style=flat-square&color=blue&abbreviated=true" alt=""/>
